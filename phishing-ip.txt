@@ -1,0 +1,4 @@
+# clash rules in text format, require clash permium 1.15.0+ or clash-meta 1.14.4+
+95.93.227.58/32
+197.248.25.27/32
+220.178.8.154/32
